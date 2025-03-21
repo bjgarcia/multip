@@ -1,5 +1,5 @@
 # multip
-Help to parse multipart form in HDZ api. The cgi script uses this to extract the actual file and mark the start of the next one.
+Helper to parse multipart form in HDZ api. The cgi script uses this to extract the actual file and mark the start of the next one.
 
 ## Donation
 If you appreciate this work or find the functionality useful. Please consider donating to support this project.
